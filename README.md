@@ -1,6 +1,7 @@
-### Hi, I'm Ilia 👋 👨‍🎓
+## Hi, I'm Ilia 👋 👨‍🎓 
 Welcome to my GitHub profile!
 
+### 👨🏻‍💻&nbsp; About Me
 - 🔭 I’m currently studying Computing and Information Systems. I am particularly interested in software development, data analytics, and artificial intelligence.
 <!--
 **iliab1/iliab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
