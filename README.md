@@ -2,7 +2,9 @@
 Welcome to my GitHub profile!
 
 ### 👨🏻‍💻&nbsp; About Me
-- 🔭 I’m currently studying Computing and Information Systems. I am particularly interested in software development, data analytics, and artificial intelligence.
+- 🎓 I recently graduated in Computing and Information Systems. I am particularly interested in software development, data analytics, and artificial intelligence.
+- 🔭 I’m currently working on projects that enhance my skills and apply what I've learned.
+- 🌱 I’m continuously learning about emerging technologies and best practices in the tech industry.
 <!--
 **iliab1/iliab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
