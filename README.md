@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 ### 👨🏻‍💻&nbsp; About Me
 
-- 🎓 MSc Graduate in Computing and Information Systems from Queen Mary University of London
+- 🎓 Comp Sci Graduate from Queen Mary University of London
 - 💼 Specialising in retail and e-commerce data solutions
 - 🔭 Currently working on building ETL/ELT data pipelines and business intelligence tools
 - 🌱 Continuously learning about modern software engineering practices and scalable system design
